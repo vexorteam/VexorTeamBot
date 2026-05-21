@@ -1,0 +1,82 @@
+{
+  "start": "👋 Hi! This is the *Vexor* team bot.\n\nWe build websites, apps and product design.\n\nChoose an action below:",
+  "unknown": "I don't understand. Please use the menu below.",
+  "lang_changed": "🇬🇧 Language changed to English.",
+
+  "menu": {
+    "lead": "📋 Leave a request",
+    "faq": "❓ FAQ",
+    "direct": "✍️ Message the team",
+    "site": "🌐 Our website",
+    "lang": "🇺🇦 Українська"
+  },
+
+  "lead": {
+    "start": "Let's fill out a request together — it takes a minute.\n\nWhat's your name?",
+    "ask_contact": "How can we reach you?\nPlease provide your email or Telegram (@username).",
+    "ask_type": "What do you need?",
+    "ask_budget": "What's your approximate budget?",
+    "ask_desc": "Briefly describe your project.\nOr send /skip to skip:",
+    "done": "✅ Request received\\! We'll respond within a few hours.\n\nYou can also reach us directly: @vexor\\_studio",
+    "team_label": "📥 *New request*",
+    "field_name": "Name",
+    "field_contact": "Contact",
+    "field_type": "Project type",
+    "field_budget": "Budget",
+    "field_desc": "Description",
+    "field_from": "Telegram"
+  },
+
+  "direct": {
+    "ask": "Write your message — we'll see it and reply:",
+    "sent": "✅ Message sent to the team.",
+    "team_label": "✍️ *Direct message*",
+    "field_from": "From"
+  },
+
+  "faq": {
+    "header": "Choose a question:",
+    "back": "🔙 Back",
+    "back_msg": "Back to the main menu."
+  },
+
+  "project_types": [
+    ["🌐 Business website", "📱 Mobile app"],
+    ["⚙️ Web platform / SaaS", "🎨 Product design"],
+    ["🤖 Automation / AI", "🔧 Project support"],
+    ["❓ Other"]
+  ],
+
+  "budgets": [
+    ["under $200", "$200 – $800"],
+    ["$800 – $2,000", "$2,000 – $5,000"],
+    ["$5,000+", "Not sure yet"]
+  ],
+
+  "faq_items": [
+    {
+      "label": "💰 Cost",
+      "answer": "The cost depends on scope and complexity. We provide an exact quote after a short call — no hidden fees."
+    },
+    {
+      "label": "⏱ Timeline",
+      "answer": "Landing page — 1–2 weeks. Website — 2–4 weeks. App or SaaS — 4–8 weeks."
+    },
+    {
+      "label": "🔧 Stack",
+      "answer": "Next.js, React Native, Flutter, FastAPI, PostgreSQL, Docker, Figma."
+    },
+    {
+      "label": "🤝 Process",
+      "answer": "1. Call or chat\n2. Figma design\n3. Development with weekly updates\n4. Deploy and handoff"
+    },
+    {
+      "label": "🌍 International clients",
+      "answer": "Yes, we work with clients from Europe and the US. We communicate in English and invoice in USD/EUR."
+    },
+    {
+      "label": "🛠 Post-launch support",
+      "answer": "First month — free support and fixes. After that — a maintenance contract."
+    }
+  ]
+}
