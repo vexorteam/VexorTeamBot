@@ -17,3 +17,6 @@ npm prod
 BOT_TOKEN=     # токен від @BotFather
 TEAM_CHAT_ID=  # ID групи або каналу
 ```
+
+## Лiцензiя
+MIT
