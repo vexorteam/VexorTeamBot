@@ -1,4 +1,5 @@
 # Vexor Team Bot
+### [🇺🇦 Ukraine readme version](./README.md)
 
 Telegram bot for the Vexor studio. Accepts project requests, answers FAQ, and forwards messages to the team.
 
