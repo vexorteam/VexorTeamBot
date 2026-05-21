@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@fxhxyz/prettier-config": "^2.0.8",
-    "dotenv": "^16.5.0",
+    "dotenv": "^17.4.2",
     "telegraf": "^4.16.3"
   }
 }
